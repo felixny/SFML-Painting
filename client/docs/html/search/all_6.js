@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['g_0',['g',['../structnk__color.html#a5f9b6e27eec7cc99ab12fa52a31ca6d1',1,'nk_color::g()'],['../structnk__colorf.html#a41ff42d9dce5f1812132b305cf3395fb',1,'nk_colorf::g()']]],
+  ['getbackgroundalpha_1',['GetBackgroundAlpha',['../class_n_g_u_i.html#a64e141acf015a7a4c8ac6cca0ccc55a4',1,'NGUI']]],
+  ['getcontext_2',['GetContext',['../class_n_g_u_i.html#a7f4dc3b542a6219aa21d6894c8767274',1,'NGUI']]],
+  ['getdescription_3',['getDescription',['../class_command.html#a4e57739008d9b4f85e35085f7a412ac0',1,'Command']]],
+  ['getimage_4',['GetImage',['../class_app___client.html#adf7a027e0b848033203e2a9da080b0bf',1,'App_Client']]],
+  ['getop_5',['GetOp',['../class_n_g_u_i.html#a12a9f087cebd32b7aaf90efd57cba7d8',1,'NGUI']]],
+  ['getsprite_6',['GetSprite',['../class_app___client.html#af4c4ebc5e4edadacaa6b530ec4ba8fb5',1,'App_Client']]],
+  ['gettexture_7',['GetTexture',['../class_app___client.html#a35c67150a4afe8963f5ca4f978b0b6ed',1,'App_Client']]],
+  ['getwindow_8',['getWindow',['../class_n_g_u_i.html#aa3179fe9837848988baf18e595c8aeef',1,'NGUI']]],
+  ['getwindow_9',['GetWindow',['../class_app___client.html#a13f34e102c0fbf721a460ca22fd7c322',1,'App_Client']]],
+  ['global_5falpha_10',['global_alpha',['../structnk__convert__config.html#ad344c555b0c1ce0a07dded48860ceb00',1,'nk_convert_config']]],
+  ['grab_11',['grab',['../structnk__mouse.html#a93b114f1d129ce336d0d237980337ac9',1,'nk_mouse']]],
+  ['grabbed_12',['grabbed',['../structnk__mouse.html#a498f60d6bf88ca50aacbddcb2a2032ad',1,'nk_mouse']]],
+  ['group_5fborder_13',['group_border',['../structnk__style__window.html#a01f2264c6f00fbfb81418c14bcccdb84',1,'nk_style_window']]],
+  ['group_5fborder_5fcolor_14',['group_border_color',['../structnk__style__window.html#a3f27932c225305d78887c18aeb788c37',1,'nk_style_window']]],
+  ['group_5fpadding_15',['group_padding',['../structnk__style__window.html#a86d3a9f2f90380097f15b5abf09b0254',1,'nk_style_window']]],
+  ['grow_5ffactor_16',['grow_factor',['../structnk__buffer.html#ab4ec59165f6aa6e9358bced8070cc84e',1,'nk_buffer']]]
+];

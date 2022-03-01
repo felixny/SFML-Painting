@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['unaryexpr_0',['UnaryExpr',['../class_catch_1_1_unary_expr.html',1,'Catch::UnaryExpr&lt; LhsT &gt;'],['../class_catch_1_1_unary_expr.html#ae02f666a1e64da728628aa2033e1d6e7',1,'Catch::UnaryExpr::UnaryExpr()']]],
+  ['unarylambdatraits_1',['UnaryLambdaTraits',['../struct_catch_1_1_clara_1_1_detail_1_1_unary_lambda_traits.html',1,'Catch::Clara::Detail']]],
+  ['unarylambdatraits_3c_20returnt_28classt_3a_3a_2a_29_28args_2e_2e_2e_29_20const_20_3e_2',['UnaryLambdaTraits&lt; ReturnT(ClassT::*)(Args...) const &gt;',['../struct_catch_1_1_clara_1_1_detail_1_1_unary_lambda_traits_3_01_return_t_07_class_t_1_1_5_08_07_args_8_8_8_08_01const_01_4.html',1,'Catch::Clara::Detail']]],
+  ['unarylambdatraits_3c_20returnt_28classt_3a_3a_2a_29_28argt_29_20const_20_3e_3',['UnaryLambdaTraits&lt; ReturnT(ClassT::*)(ArgT) const &gt;',['../struct_catch_1_1_clara_1_1_detail_1_1_unary_lambda_traits_3_01_return_t_07_class_t_1_1_5_08_07_arg_t_08_01const_01_4.html',1,'Catch::Clara::Detail']]],
+  ['uncaught_5fexceptions_4',['uncaught_exceptions',['../namespace_catch.html#a4b5a2b34a00e65b753185bbc6a4962be',1,'Catch']]],
+  ['undo_5',['undo',['../class_command.html#aa89348c98fd2194f1617d70f57a3ae6c',1,'Command::undo()'],['../class_draw.html#a45aeb222825e974d7c40153ca1037a82',1,'Draw::undo()']]],
+  ['undolastcommand_6',['undoLastCommand',['../class_app___server.html#aaf731558a17b8028381e41657152158c',1,'App_Server']]],
+  ['unexpectedexceptions_7',['unexpectedExceptions',['../class_catch_1_1_junit_reporter.html#ae8028373148d6190b8c3cdf4a62e8565',1,'Catch::JunitReporter']]],
+  ['unique_5fptr_8',['unique_ptr',['../class_catch_1_1_detail_1_1unique__ptr.html',1,'Catch::Detail::unique_ptr&lt; T &gt;'],['../class_catch_1_1_detail_1_1unique__ptr.html#a7ab896098db02738739c9e66a466585d',1,'Catch::Detail::unique_ptr::unique_ptr(std::nullptr_t=nullptr)'],['../class_catch_1_1_detail_1_1unique__ptr.html#ade89e9372df0a1d95755a9d2a36cb161',1,'Catch::Detail::unique_ptr::unique_ptr(T *ptr)'],['../class_catch_1_1_detail_1_1unique__ptr.html#af9a3368047f17545019d9f59e393dbd2',1,'Catch::Detail::unique_ptr::unique_ptr(unique_ptr&lt; U &gt; &amp;&amp;from)'],['../class_catch_1_1_detail_1_1unique__ptr.html#aa9c7f2059c8c6ef34bbd5e6968c31c0c',1,'Catch::Detail::unique_ptr::unique_ptr(unique_ptr const &amp;)=delete'],['../class_catch_1_1_detail_1_1unique__ptr.html#a5266a33f00a306a6156c6d4356e772ae',1,'Catch::Detail::unique_ptr::unique_ptr(unique_ptr &amp;&amp;rhs) noexcept']]],
+  ['unique_5fptr_3c_20istreamingreporter_20_3e_9',['unique_ptr&lt; IStreamingReporter &gt;',['../class_catch_1_1_detail_1_1unique__ptr.html',1,'Catch::Detail']]],
+  ['unknown_10',['Unknown',['../struct_catch_1_1_result_was.html#a624e1ee3661fcf6094ceef1f654601efa65721dda02fe5efb522e7449e496608a',1,'Catch::ResultWas']]],
+  ['unorderedequals_11',['UnorderedEquals',['../namespace_catch_1_1_matchers.html#a40531208875e65d9d4c7b4094a23ead1',1,'Catch::Matchers']]],
+  ['unorderedequalsmatcher_12',['UnorderedEqualsMatcher',['../struct_catch_1_1_matchers_1_1_unordered_equals_matcher.html',1,'Catch::Matchers::UnorderedEqualsMatcher&lt; T, AllocComp, AllocMatch &gt;'],['../struct_catch_1_1_matchers_1_1_unordered_equals_matcher.html#ad434cf67520598a9faf1c1d2c3bb3113',1,'Catch::Matchers::UnorderedEqualsMatcher::UnorderedEqualsMatcher()']]],
+  ['unprintablestring_13',['unprintableString',['../namespace_catch_1_1_detail.html#a466775f4eec29ffef29ab334cd885136',1,'Catch::Detail']]],
+  ['unscoped_5finfo_14',['UNSCOPED_INFO',['../catch__amalgamated_8hpp.html#a8dd723bbdb751f1c2f3af8c4f264b7a3',1,'catch_amalgamated.hpp']]],
+  ['updateclient_15',['updateClient',['../class_app___server.html#ac7a3be9ae5f17f60cefe0b4255516856',1,'App_Server']]],
+  ['updatepacket_16',['updatePacket',['../class_app___server.html#a4ba1a5b0639d5cc3bc73b2b2c0d86e62',1,'App_Server']]],
+  ['upper_5fbound_17',['upper_bound',['../struct_catch_1_1_benchmark_1_1_estimate.html#a55d9dabb3f242c7f18cf32c6b0a2afba',1,'Catch::Benchmark::Estimate']]],
+  ['use_18',['use',['../struct_catch_1_1_colour.html#a08942819277c6d02a34662577d7d2c16',1,'Catch::Colour']]],
+  ['usecolour_19',['useColour',['../struct_catch_1_1_config_data.html#af417e8f5146e249e2d4fd13872c64014',1,'Catch::ConfigData::useColour()'],['../struct_catch_1_1_i_config.html#af377449bed1cda09f3a4318154e00955',1,'Catch::IConfig::useColour()'],['../class_catch_1_1_config.html#a8f71d05587dea0912f2c059528b903b0',1,'Catch::Config::useColour()']]],
+  ['usecolour_20',['UseColour',['../namespace_catch.html#a78e9eddf0bc9b2f4f0e4f3e232131b9c',1,'Catch']]],
+  ['useconfigdata_21',['useConfigData',['../class_catch_1_1_session.html#a122417ed44bfa29a229941b1e12b91a3',1,'Catch::Session']]],
+  ['used_22',['used',['../struct_catch_1_1_lazy_stat.html#a3f68d716a1e972df47dc43b4d402124a',1,'Catch::LazyStat']]],
+  ['user_5fcode_23',['user_code',['../namespace_catch_1_1_benchmark.html#ab10cc5a63e65cd55178d7f1473da9f04',1,'Catch::Benchmark']]]
+];

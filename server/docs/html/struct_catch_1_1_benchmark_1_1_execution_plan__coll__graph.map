@@ -1,0 +1,4 @@
+<map id="Catch::Benchmark::ExecutionPlan&lt; Duration &gt;" name="Catch::Benchmark::ExecutionPlan&lt; Duration &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,109,203,151"/>
+<area shape="rect" id="node2" href="$struct_catch_1_1_benchmark_1_1_detail_1_1_benchmark_function.html" title="We need to reinvent std::function because every piece of code that might add overhead in a measuremen..." alt="" coords="17,5,191,47"/>
+</map>

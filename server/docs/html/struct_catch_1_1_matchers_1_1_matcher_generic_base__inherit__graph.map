@@ -1,0 +1,12 @@
+<map id="Catch::Matchers::MatcherGenericBase" name="Catch::Matchers::MatcherGenericBase">
+<area shape="rect" id="node1" title=" " alt="" coords="228,235,403,276"/>
+<area shape="rect" id="node3" href="$class_catch_1_1_matchers_1_1_contains_element_matcher.html" title="Matcher for checking that an element in range is equal to specific element." alt="" coords="466,5,669,47"/>
+<area shape="rect" id="node4" href="$class_catch_1_1_matchers_1_1_contains_matcher_matcher.html" title="Meta&#45;matcher for checking that an element in a range matches a specific matcher." alt="" coords="473,71,662,112"/>
+<area shape="rect" id="node5" href="$struct_catch_1_1_matchers_1_1_detail_1_1_match_all_of_generic.html" title=" " alt="" coords="455,136,680,177"/>
+<area shape="rect" id="node6" href="$struct_catch_1_1_matchers_1_1_detail_1_1_match_any_of_generic.html" title=" " alt="" coords="451,201,684,243"/>
+<area shape="rect" id="node7" href="$struct_catch_1_1_matchers_1_1_detail_1_1_match_not_of_generic.html" title=" " alt="" coords="454,267,681,308"/>
+<area shape="rect" id="node8" href="$class_catch_1_1_matchers_1_1_has_size_matcher.html" title=" " alt="" coords="479,332,655,373"/>
+<area shape="rect" id="node9" href="$class_catch_1_1_matchers_1_1_is_empty_matcher.html" title=" " alt="" coords="480,397,655,439"/>
+<area shape="rect" id="node10" href="$class_catch_1_1_matchers_1_1_size_matches_matcher.html" title=" " alt="" coords="466,463,669,504"/>
+<area shape="rect" id="node2" href="$class_catch_1_1_matchers_1_1_matcher_untyped_base.html" title=" " alt="" coords="5,235,180,276"/>
+</map>

@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['marker_0',['marker',['../structnk__buffer.html#aaa4beec86444feb7908aad98c20b6849',1,'nk_buffer']]],
+  ['max_1',['max',['../structnk__chart__slot.html#a58aa25a63cb64e32048c76ef309e77f1',1,'nk_chart_slot']]],
+  ['max_5fx_2',['max_x',['../structnk__panel.html#ae5077b921e52862b991798c89ec1c12a',1,'nk_panel']]],
+  ['maximize_5fsymbol_3',['maximize_symbol',['../structnk__style__window__header.html#ad45757a0d00f6c46fa4f6c10fe9d526c',1,'nk_style_window_header']]],
+  ['memory_4',['memory',['../structnk__memory__status.html#a59d1cb36709894b5f922a1d4cf057051',1,'nk_memory_status::memory()'],['../structnk__buffer.html#a228b585debec1d328859fb52080ca3fd',1,'nk_buffer::memory()'],['../structnk__context.html#a678e6980553a5f32f7b59f2fbcebebe9',1,'nk_context::memory()']]],
+  ['menu_5',['menu',['../structnk__panel.html#a328ce831e11cefc6308d1dcb0c124771',1,'nk_panel']]],
+  ['menu_5fborder_6',['menu_border',['../structnk__style__window.html#a21ca38bdb7f780cf8d02e3f400397219',1,'nk_style_window']]],
+  ['menu_5fborder_5fcolor_7',['menu_border_color',['../structnk__style__window.html#af0042cffbc72da702432ee1f3917d73c',1,'nk_style_window']]],
+  ['menu_5fbutton_8',['menu_button',['../structnk__style.html#af26de9bbb7b4c8a9bd3e722ae41b6433',1,'nk_style']]],
+  ['menu_5fpadding_9',['menu_padding',['../structnk__style__window.html#a10bea28d74c8475b42642fb6d7fd2a5e',1,'nk_style_window']]],
+  ['min_10',['min',['../structnk__chart__slot.html#ae7c42d9f745b91c73c838a6029c3380a',1,'nk_chart_slot']]],
+  ['min_5fheight_11',['min_height',['../structnk__row__layout.html#a49e13ff37672b2ca384f934c81fa3150',1,'nk_row_layout']]],
+  ['min_5frow_5fheight_5fpadding_12',['min_row_height_padding',['../structnk__style__window.html#a8015008fdc925c60cda1a81688eb9017',1,'nk_style_window']]],
+  ['min_5fsize_13',['min_size',['../structnk__style__window.html#af285fb50f2acd6562706b97ee3233b0c',1,'nk_style_window']]],
+  ['minimize_5fbutton_14',['minimize_button',['../structnk__style__window__header.html#a492a9e48e37f089794368ebe4339440a',1,'nk_style_window_header']]],
+  ['minimize_5fsymbol_15',['minimize_symbol',['../structnk__style__window__header.html#ab734ca0639f56dde1f263dce6868e527',1,'nk_style_window_header']]],
+  ['mode_16',['mode',['../structnk__text__edit.html#a6d663e082a6944080d86d28a1f5063d7',1,'nk_text_edit::mode()'],['../structnk__edit__state.html#ae841853374d727742a6ac7d31e9346e6',1,'nk_edit_state::mode()']]],
+  ['mouse_17',['mouse',['../structnk__input.html#ac34a784eebb90e3c839a8008f2127c61',1,'nk_input']]]
+];

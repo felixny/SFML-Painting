@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['samples_0',['samples',['../struct_catch_1_1_benchmark_info.html#ad45ec2dec325b2eb3c441bfebd89af79',1,'Catch::BenchmarkInfo::samples()'],['../struct_catch_1_1_benchmark_stats.html#a70f674e59cc2ce9b0016d8dfdfe0fa9a',1,'Catch::BenchmarkStats::samples()'],['../struct_catch_1_1_benchmark_1_1_sample_analysis.html#ab03f356a7ae8cb0dd2996adf7e96d3e5',1,'Catch::Benchmark::SampleAnalysis::samples()']]],
+  ['samples_5fseen_1',['samples_seen',['../struct_catch_1_1_benchmark_1_1_outlier_classification.html#afa72bf7b54b3fc26b943daa0ad99a623',1,'Catch::Benchmark::OutlierClassification']]],
+  ['sectioninfo_2',['sectionInfo',['../struct_catch_1_1_section_end_info.html#a2d44793392cb83735d086d726822abe9',1,'Catch::SectionEndInfo::sectionInfo()'],['../struct_catch_1_1_section_stats.html#a524d0cd3b91acc6a4d0f24d6e50275bb',1,'Catch::SectionStats::sectionInfo()']]],
+  ['sectionstorun_3',['sectionsToRun',['../struct_catch_1_1_config_data.html#a76026ccfbefe117a33dde6540161b113',1,'Catch::ConfigData']]],
+  ['sequence_4',['sequence',['../struct_catch_1_1_message_info.html#a7f4f57ea21e50160adefce7b68a781d6',1,'Catch::MessageInfo']]],
+  ['shoulddebugbreak_5',['shouldDebugBreak',['../struct_catch_1_1_config_data.html#afec8310b1904784edb292e143a602fba',1,'Catch::ConfigData::shouldDebugBreak()'],['../struct_catch_1_1_assertion_reaction.html#adcf30fb90ff20d9789df78d424652497',1,'Catch::AssertionReaction::shouldDebugBreak()']]],
+  ['shouldredirectstdout_6',['shouldRedirectStdOut',['../struct_catch_1_1_reporter_preferences.html#a434511c4080edbbc12e0d1c31ea14769',1,'Catch::ReporterPreferences']]],
+  ['shouldreportallassertions_7',['shouldReportAllAssertions',['../struct_catch_1_1_reporter_preferences.html#a10e13e10dfdc9a97dde0a72c573d7419',1,'Catch::ReporterPreferences']]],
+  ['shouldthrow_8',['shouldThrow',['../struct_catch_1_1_assertion_reaction.html#a82c8d95a2c1b6a331bde66982a8e090f',1,'Catch::AssertionReaction']]],
+  ['showdurations_9',['showDurations',['../struct_catch_1_1_config_data.html#a7cdef18ba0c8a052b80ac9d80949efbc',1,'Catch::ConfigData']]],
+  ['showhelp_10',['showHelp',['../struct_catch_1_1_config_data.html#a12535241547dfc57e6864c4fc2cd4dd9',1,'Catch::ConfigData']]],
+  ['showinvisibles_11',['showInvisibles',['../struct_catch_1_1_config_data.html#a3c243de7a5957fa5311167039064379c',1,'Catch::ConfigData']]],
+  ['showsuccessfultests_12',['showSuccessfulTests',['../struct_catch_1_1_config_data.html#aeb091ca2df2c654caaa2ad29c14578e5',1,'Catch::ConfigData']]],
+  ['spellings_13',['spellings',['../struct_catch_1_1_tag_info.html#a086cba23a86af2c5f4f587bc9a07f6a7',1,'Catch::TagInfo']]],
+  ['standard_5fdeviation_14',['standard_deviation',['../struct_catch_1_1_benchmark_1_1_detail_1_1bootstrap__analysis.html#a3bc85781de3f5ffe6bff8dc40b4cc1d0',1,'Catch::Benchmark::Detail::bootstrap_analysis::standard_deviation()'],['../struct_catch_1_1_benchmark_1_1_sample_analysis.html#ae1a3845ef01c0460ca90c7f644a4f71d',1,'Catch::Benchmark::SampleAnalysis::standard_deviation()']]],
+  ['standarddeviation_15',['standardDeviation',['../struct_catch_1_1_benchmark_stats.html#ad9c54326288b08d9d9ba6a019b75a776',1,'Catch::BenchmarkStats']]],
+  ['started_16',['started',['../struct_catch_1_1_benchmark_1_1_detail_1_1_chronometer_model.html#a56f0814c0b13b21dd8a86135b66256ea',1,'Catch::Benchmark::Detail::ChronometerModel']]],
+  ['stats_17',['stats',['../struct_catch_1_1_cumulative_reporter_base_1_1_section_node.html#ace54e2e5f29aad1484bfe501478ef686',1,'Catch::CumulativeReporterBase::SectionNode']]],
+  ['stderr_18',['stdErr',['../struct_catch_1_1_test_case_stats.html#a84851abaa94a6b09664517a4919fa8ac',1,'Catch::TestCaseStats::stdErr()'],['../struct_catch_1_1_cumulative_reporter_base_1_1_section_node.html#ae8e8c7ef27b55ef96d0f15af231fdfb8',1,'Catch::CumulativeReporterBase::SectionNode::stdErr()']]],
+  ['stderrforsuite_19',['stdErrForSuite',['../class_catch_1_1_junit_reporter.html#a1efe5ba1ad030a9c7b79e40d1ad1eda0',1,'Catch::JunitReporter']]],
+  ['stdout_20',['stdOut',['../struct_catch_1_1_test_case_stats.html#acab436aeefce581c52d0e195872484f7',1,'Catch::TestCaseStats::stdOut()'],['../struct_catch_1_1_cumulative_reporter_base_1_1_section_node.html#afc6a8c08567d60bb612133632d2992a3',1,'Catch::CumulativeReporterBase::SectionNode::stdOut()']]],
+  ['stdoutforsuite_21',['stdOutForSuite',['../class_catch_1_1_junit_reporter.html#a25402dec57e499d4c87738b392415b64',1,'Catch::JunitReporter']]],
+  ['stream_22',['stream',['../struct_catch_1_1_streaming_reporter_base.html#aee935c9ec91eca10af8598a88258bde4',1,'Catch::StreamingReporterBase::stream()'],['../struct_catch_1_1_cumulative_reporter_base.html#add96a41a3e449be82c629a9cefc84aac',1,'Catch::CumulativeReporterBase::stream()']]],
+  ['suitetimer_23',['suiteTimer',['../class_catch_1_1_junit_reporter.html#a20417e9762efdad95d1a5c68d08f74c1',1,'Catch::JunitReporter']]]
+];

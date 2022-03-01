@@ -1,0 +1,9 @@
+<map id="include/Command.hpp" name="include/Command.hpp">
+<area shape="rect" id="node1" title="Represents an actionable command by the user." alt="" coords="303,5,459,32"/>
+<area shape="rect" id="node2" href="$_draw_8hpp.html" title="Drawing actions interface." alt="" coords="200,80,324,107"/>
+<area shape="rect" id="node4" href="$_app___server_8cpp.html" title="Main server class for program." alt="" coords="261,229,399,256"/>
+<area shape="rect" id="node7" href="$_command_8cpp.html" title="Implementation of Command.hpp." alt="" coords="418,80,549,107"/>
+<area shape="rect" id="node3" href="$_app___server_8hpp.html" title="App_server class interface." alt="" coords="5,155,169,181"/>
+<area shape="rect" id="node6" href="$_draw_8cpp.html" title="Draw implementation, all drawing actions are commands." alt="" coords="194,155,293,181"/>
+<area shape="rect" id="node5" href="$main__server_8cpp.html" title=" " alt="" coords="17,229,158,256"/>
+</map>

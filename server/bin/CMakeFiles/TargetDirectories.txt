@@ -1,0 +1,4 @@
+/Users/felixyamano/Documents/NEU/CS5500/FinalProject/gui working/server/bin/CMakeFiles/rebuild_cache.dir
+/Users/felixyamano/Documents/NEU/CS5500/FinalProject/gui working/server/bin/CMakeFiles/edit_cache.dir
+/Users/felixyamano/Documents/NEU/CS5500/FinalProject/gui working/server/bin/CMakeFiles/App_Test.dir
+/Users/felixyamano/Documents/NEU/CS5500/FinalProject/gui working/server/bin/CMakeFiles/App_Server.dir

@@ -1,0 +1,3 @@
+/Users/felixyamano/Documents/NEU/CS5500/FinalProject/gui working/client/bin/CMakeFiles/rebuild_cache.dir
+/Users/felixyamano/Documents/NEU/CS5500/FinalProject/gui working/client/bin/CMakeFiles/edit_cache.dir
+/Users/felixyamano/Documents/NEU/CS5500/FinalProject/gui working/client/bin/CMakeFiles/App_Client.dir

@@ -1,0 +1,11 @@
+<map id="nk_style_edit" name="nk_style_edit">
+<area shape="rect" id="node1" title=" " alt="" coords="110,840,210,867"/>
+<area shape="rect" id="node2" href="$structnk__style__item.html" title=" " alt="" coords="135,333,239,360"/>
+<area shape="rect" id="node7" href="$structnk__style__scrollbar.html" title=" " alt="" coords="354,751,483,777"/>
+<area shape="rect" id="node9" href="$structnk__style__button.html" title=" " alt="" coords="310,601,426,628"/>
+<area shape="rect" id="node3" href="$unionnk__style__item__data.html" title=" " alt="" coords="117,184,254,211"/>
+<area shape="rect" id="node4" href="$structnk__image.html" title=" " alt="" coords="15,95,95,121"/>
+<area shape="rect" id="node5" href="$unionnk__handle.html" title=" " alt="" coords="402,5,486,32"/>
+<area shape="rect" id="node6" href="$structnk__color.html" title=" " alt="" coords="216,95,288,121"/>
+<area shape="rect" id="node8" href="$structnk__vec2.html" title=" " alt="" coords="555,333,627,360"/>
+</map>
